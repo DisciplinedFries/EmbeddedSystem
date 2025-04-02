@@ -1,5 +1,5 @@
 # ESystem
-嵌入式系统
+下载地址：[最新版ESystem](https://gitee.com/DisciplinedFries/embedded-system/repository/archive/v0.0.0.2)
 
 #### 使用说明
 
