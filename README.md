@@ -1,9 +1,13 @@
 # ESystem
 下载地址：[最新版ESystem](https://gitee.com/DisciplinedFries/embedded-system/repository/archive/v0.0.0.2)
 
-#### 使用说明
+#### 页面介绍
 
  **1.主页** 
+
+[点击页面左上角机器人图标可以收起左侧页面导航栏]
+
+[点击左侧页面导航栏主题切换按钮可以切换UI界面颜色]
 
 ![输入图片说明](Packs/1.%E4%B8%BB%E9%A1%B5.png)
 ![输入图片说明](Packs/1.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png)
@@ -36,4 +40,6 @@
 
 ![输入图片说明](Packs/8.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.png)
 
+#### 实际使用
 
+![输入图片说明](Packs/%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8.png)
