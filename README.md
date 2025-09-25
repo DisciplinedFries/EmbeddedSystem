@@ -1,5 +1,5 @@
 # ESystem
-下载地址：[最新版ESystem](https://gitee.com/DisciplinedFries/embedded-system/repository/archive/v0.0.0.2)
+下载地址：[最新版ESystem](https://foruda.gitee.com/attach_file/1758792454893331243/esystem.exe?token=69dd0677f808055f8f3368e0249f3833&ts=1758792587&attname=ESystem.exe)
 
 #### 页面介绍
 
