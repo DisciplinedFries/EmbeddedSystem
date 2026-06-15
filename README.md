@@ -3,12 +3,13 @@
 
 #### 页面介绍
 
- **1.主页** 
+**1. 主页**
 - 点击页面左上角机器人图标可以展开或者合拢左侧页面导航栏
 - 点击左侧页面导航栏主题切换按钮可以切换UI界面主题
 
-![输入图片说明](Packs/1.%E4%B8%BB%E9%A1%B5.png)
-![输入图片说明](Packs/1.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png)
+| 默认主题                          | 切换主题后                          |
+|----------------------------------|------------------------------------|
+| ![默认主题](https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5.png) | ![切换主题](https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png) |
 
  **2.串口监视器** 
 - 可以拖动调整发送区的占比大小，或者点击发送区最小按钮更方便查看数据
