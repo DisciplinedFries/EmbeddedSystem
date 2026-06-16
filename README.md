@@ -1,5 +1,39 @@
+<div align="center">
+
 # ESystem
-下载地址：[最新版ESystem](https://foruda.gitee.com/attach_file/1781426295259217479/esystem.exe?token=98d20b8425dac5032fedba685ebe72e0&ts=1781426631&attname=ESystem.exe)
+
+下载地址：[最新版ESystem](https://foruda.gitee.com/attach_file/1781526091293763622/esystem.exe?token=ebbbd255b7be26366efd666adaad0d24&ts=1781604291&attname=ESystem.exe)
+
+</div>
+
+<div align="center">
+
+#### 页面介绍
+
+**1. 主页**
+- 点击页面左上角机器人图标可以展开或者合拢左侧页面导航栏
+- 点击左侧页面导航栏主题切换按钮可以切换UI界面主题
+
+</div>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>默认主题</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/1.%E4%B8%BB%E9%A1%B5.png" width="500" style="max-height:320px; object-fit: contain;" alt="默认主题"/>
+    </td>
+    <td align="center">
+      <strong>切换主题</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/2.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png" width="500" style="max-height:320px; object-fit: contain;" alt="切换主题"/>
+    </td>
+    <td align="center">
+      <strong>动态演示</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/3.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).gif" width="500" style="max-height:320px; object-fit: contain;" alt="动态切换主题"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 #### 页面介绍
 
@@ -12,11 +46,11 @@
   <tr>
     <td align="center">
       <strong>默认主题</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5.png" width="420" alt="默认主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/1.%E4%B8%BB%E9%A1%B5.png" width="420" alt="默认主题"/>
     </td>
     <td align="center">
       <strong>切换主题</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png" width="420" alt="切换主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/2.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png" width="420" alt="切换主题"/>
     </td>
   </tr>
 </table>
