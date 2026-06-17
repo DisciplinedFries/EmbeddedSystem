@@ -8,7 +8,7 @@
   
   <span style="margin-top: -8px; display: inline-block; font-size: 13px; font-style: italic;">
     下载地址：
-    <a href="https://foruda.gitee.com/attach_file/1781526091293763622/esystem.exe?token=ebbbd255b7be26366efd666adaad0d24&ts=1781604291&attname=ESystem.exe" 
+    <a href="https://foruda.gitee.com/attach_file/1781526091293763622/esystem.exe?token=05888227768d417d963bca9e1f58ffa6&ts=1781694683&attname=ESystem.exe" 
        target="_blank" 
        style="margin-left: -10px; font-weight: normal; text-decoration: none; font-style: italic;">
       最新版ESystem
