@@ -44,6 +44,7 @@
 - [协议解析] - 通过设置数据下标、字节数量及高\低位在前后转换成对应的数值。
 - [其他配置] - 支持将接收到的数据保存为.txt文件，调整接收区最大显示长度;发送格式可通过发送配置选择Hex\文本\ASCII码。
 - [帮助文档] - 提供各控件及功能的简要用法说明。
+- [补充说明] - 拖动接收区与发送区之间的分隔条，可调整两者显示比例；点击🔻图标可收起或展开发送区。
 
 </div>
 </div>
@@ -88,6 +89,7 @@
 - [曲线绑定] - 提供8个通道，可同时绑定并绘制8条曲线。
 - [其他配置] - 待做。
 - [帮助文档] - 提供各控件及功能的简要用法说明。
+- [补充说明] - 拖动图表区与发送区之间的分隔条，可调整两者显示比例；点击🔻图标可收起或展开发送区。
 
 <div>
 </div>
@@ -117,11 +119,47 @@
 </div>
 
 <div>
+ 
+
+
+<div>
 
  **4.网络调试** 
-- [网络调试] 有时间了就会继续开发
+- [网络配置] - 默认采用预设网络配置；若修改，重启后自动应用上次修改后的配置。
+- [发送列表] - 记录发送内容、注释及自动发送等信息，配置自动保存。
+- [协议解析] - 通过设置数据下标、字节数量及高\低位在前后转换成对应的数值。
+- [其他配置] - 支持将接收到的数据保存为.txt文件，调整接收区最大显示长度;发送格式可通过发送配置选择Hex\文本\ASCII码。
+- [帮助文档] - 提供各控件及功能的简要用法说明。
+- [补充说明] - 拖动接收区与发送区之间的分隔条，可调整两者显示比例；点击🔻图标可收起或展开发送区。
 
-![输入图片说明](Packs/4.%E7%BD%91%E7%BB%9C%E8%B0%83%E8%AF%95.png)
+<div>
+</div>
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>网络配置</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/1.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="串口配置"/>
+    </td>
+    <td align="center">
+      <strong>曲线绑定</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/2.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="曲线绑定"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>其他配置</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/3.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="其他配置"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>帮助文档</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/4.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="帮助"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div>
 
  **5.工具箱** 
 - [ASCII码转换器]    每个框都能够输入、输出数据进行ASCII转换
