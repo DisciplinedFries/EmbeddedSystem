@@ -14,7 +14,7 @@
 - [动态演示] - 点击页面左上角的机器人图标，可展开或收起左侧导航栏。
 
 </div>
-
+</div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -39,40 +39,38 @@
 <div>
 
  **2.串口监视器** 
-- [串口助手] - 界面默认配置信息如下；若修改了串口配置，重启后会自动应用您修改后的配置。
-- [发送列表] - 记录要发送的内容、注释或者自动发送等信息，配置自动保存，重启后会自动应用您修改后的配置。
-- [协议解析] - 填写数据下标范围转换成对应的数据（没做帧头帧尾或者校验位校验的功能,就下标转换比较简洁实测很好用）。-
-- [其他配置] - 记录要发送的内容、注释、单独或者自动发送等信息。
-- [帮助] - 记录要发送的内容、注释、单独或者自动发送等信息。
+- [串口配置] - 默认采用预设串口配置；若修改，重启后自动应用上次修改后的配置。
+- [发送列表] - 记录发送内容、注释及自动发送等信息，配置自动保存。
+- [协议解析] - 通过设置数据下标、字节数量及高\低位在前后转换成对应的数值。
+- [其他配置] - 支持将接收到的数据保存为.txt文件，调整接收区最大显示长度;发送格式可通过发送配置选择Hex\文本\ASCII码。
+- [帮助文档] - 提供各控件及功能的简要用法说明。
 
 </div>
-
 </div>
-
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <strong>默认主题</strong><br>
+      <strong>串口配置</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/1.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="串口监视器"/>
     </td>
     <td align="center">
-      <strong>切换主题</strong><br>
+      <strong>发送列表</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/2.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="发送列表"/>
     </td>
     </td>
     <td align="center">
-      <strong>切换主题</strong><br>
+      <strong>协议解析</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/3.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="协议解析"/>
     </td>
     </td>
     <td align="center">
-      <strong>切换主题</strong><br>
+      <strong>其他配置</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/4.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="其他配置"/>
     </td>
     </td>
     <td align="center">
-      <strong>切换主题</strong><br>
+      <strong>帮助文档</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/5.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="帮助"/>
     </td>
   </tr>
@@ -81,13 +79,44 @@
 
 <div>
  
- **3.数据可视化** 
-- 可以拖动调整配置区的占比大小，或者点击发送区最小按钮更方便查看曲线
-- [串口配置] 配置串口信息
-- [曲线绑定] 根据对应的下标范围绑定曲线进行展示
-- [快捷键]   我添加了一些图表快捷键，更方便用户清除或查看曲线
 
-![输入图片说明](Packs/3.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.png)
+
+<div>
+
+ **3.数据可视化** 
+- [串口配置] - 默认采用预设串口配置；若修改，重启后自动应用上次修改后的配置。
+- [曲线绑定] - 提供8个通道，可同时绑定并绘制8条曲线。
+- [其他配置] - 待做。
+- [帮助文档] - 提供各控件及功能的简要用法说明。
+
+<div>
+</div>
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>串口配置</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/1.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="串口配置"/>
+    </td>
+    <td align="center">
+      <strong>曲线绑定</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/2.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="曲线绑定"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>其他配置</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/3.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="其他配置"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>帮助文档</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/3.DataBoard/4.DataBoard.png" width="500" style="max-height:320px; object-fit: contain;" alt="帮助"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div>
 
  **4.网络调试** 
 - [网络调试] 有时间了就会继续开发
