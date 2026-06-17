@@ -390,23 +390,23 @@
   <tr>
     <td align="center">
       <strong>TCP示例1</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="串口正常通信"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例1"/>
     </td>
     <td align="center">
       <strong>TCP示例2</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="调整布局后"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例2"/>
     </td>
     <td align="center">
       <strong>TCP示例3</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (3).png" width="500" style="max-height:320px; object-fit: contain;" alt="发现新版本"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (3).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例3"/>
     </td>
     <td align="center">
       <strong>TCP示例4</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (4).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (4).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例4"/>
     </td>
     <td align="center5">
-      <strong>TCP示例</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (5).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+      <strong>TCP示例5</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (5).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例5"/>
     </td>
   </tr>
 </table>
