@@ -30,7 +30,7 @@
 - [切换主题] - 点击左侧导航栏的“主题切换”按钮，即可更改界面配色。
 - [动态演示] - 点击页面左上角的机器人图标，可展开或收起左侧导航栏。
 </div>
-</div>
+
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -66,7 +66,6 @@
 - [其他配置] - 支持将接收到的数据保存为.txt文件，调整接收区最大显示长度;发送格式可通过发送配置选择Hex\文本\ASCII码。
 - [帮助文档] - 提供各控件及功能的简要用法说明。
 - [补充说明] - 拖动接收区与发送区之间的分隔条，可调整两者显示比例；点击🔻图标可收起或展开发送区。
-</div>
 </div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -113,7 +112,6 @@
 - [其他配置] - 待做。
 - [帮助文档] - 提供各控件及功能的简要用法说明。
 </div>
-</div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -154,7 +152,6 @@
 - [协议解析] - 通过设置数据下标、字节数量及高\低位在前后转换成对应的数值。
 - [其他配置] - 支持将接收到的数据保存为.txt文件，调整接收区最大显示长度;发送格式可通过发送配置选择Hex\文本\ASCII码。
 - [帮助文档] - 提供各控件及功能的简要用法说明。
-</div>
 </div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -201,7 +198,6 @@
 - [补充说明] - 工具箱扩展：后续将根据开发计划持续增加新工具；需求反馈：若您有需要的工具，可点击提交issue提出。
 
 </div>
-</div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -228,8 +224,6 @@
 <div style="font-size: 12px; line-height: 1.6;">
 
 - [操作与文件系统] - 后续开发
-
-</div>
 </div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -257,8 +251,6 @@
 <div style="font-size: 12px; line-height: 1.6;">
 
 - [实时通信系统] - 后续开发
-
-</div>
 </div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
