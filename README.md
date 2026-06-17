@@ -97,8 +97,6 @@
   </tr>
 </table>
 </div>
-
-<div>
  
 
 <span style="font-size: 22px; font-weight: bold; 
@@ -140,8 +138,6 @@
   </tr>
 </table>
 </div>
-
-<div>
  
 
 <span style="font-size: 22px; font-weight: bold; 
@@ -190,10 +186,6 @@
 </table>
 </div>
 
-<div>
-
-
-
 
 <span style="font-size: 22px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
@@ -204,47 +196,84 @@
 
 <div style="font-size: 12px; line-height: 1.6;">
 
-- [网络配置] - 默认采用预设网络配置；若修改，重启后自动应用上次修改后的配置。
-- [ASCII码转换器]    每个框都能够输入、输出数据进行ASCII转换
-- [RGB颜色转换器]    每个框都能够输入、输出数据进行RGB颜色转换
-- [摩斯电码转换器]   每个框都能够输入、输出数据进行摩斯电码转换
-- [MODBUS计算校验位] 在协议框内输入没有校验位的Modbus协议，校验位框会实时显示输入的协议+校验位（校验位框不允许输入内容）
-- [帮助文档] - 提供各控件及功能的简要用法说明。
-- 有时间就继续增加工具箱内容，如果用户有想要的工具可以[提交issue](https://gitee.com/DisciplinedFries/embedded-system/issues)
+- [工 具 箱] - 默认采用预设网络配置；若修改，重启后自动应用上次修改后的配置。
+- [工具介绍] - .-- .... . -.   ..- ... .. -. --.   .. -     ... .. -- .--. .-.. -.--   . -. - . .-.   .-   ...- .- .-.. ..- .   .. -.   .- -. -.--   .. -. .--. ..- -   -... --- -..-     .- -. -..   - .... .   -.-. --- .-. .-. . ... .--. --- -. -.. .. -. --.   -... --- -..- . ...   .-- .. .-.. .-..   .- ..- - --- -- .- - .. -.-. .- .-.. .-.. -.--   -.. .. ... .--. .-.. .- -.--   - .... .   -.-. --- -. ...- . .-. ... .. --- -.   .-. . ... ..- .-.. -     -- .- -.- .. -. --.   .. -   . .- ... -.--   - ---   --.- ..- .. -.-. -.- .-.. -.--   -.-. --- -- .--. .- .-. .   .- -. -..   ...- . .-. .. ..-. -.--
+- [补充说明] - 工具箱扩展：后续将根据开发计划持续增加新工具；需求反馈：若您有需要的工具，可点击提交issue提出。
+
 </div>
 </div>
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <strong>网络配置</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/5.Tool/1.Tool.png" width="500" style="max-height:320px; object-fit: contain;" alt="网络配置"/>
+      <strong>工具箱</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/5.Tool/1.Tool.png" width="500" style="max-height:320px; object-fit: contain;" alt="工具箱"/>
     </td>
     <td align="center">
-      <strong>网络配置</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/5.Tool/2.Tool.png" width="500" style="max-height:320px; object-fit: contain;" alt="网络配置"/>
+      <strong>工具介绍</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/5.Tool/2.Tool.png" width="500" style="max-height:320px; object-fit: contain;" alt="工具介绍"/>
     </td>
   </tr>
 </table>
 </div>
 
-<div>
 
-
-
+<span style="font-size: 22px; font-weight: bold; 
+             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;">
  **6.操作与文件系统** 
-- [操作与文件系统] 有时间了就会继续开发
+</span>
 
-![输入图片说明](Packs/6.%E6%93%8D%E4%BD%9C%E4%B8%8E%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.png)
+<div style="font-size: 12px; line-height: 1.6;">
 
+- [操作与文件系统] - 后续开发
+
+</div>
+</div>
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>操作与文件系统</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/6.OS/1.OS.png" width="500" style="max-height:320px; object-fit: contain;" alt="操作与文件系统"/>
+    </td>
+    <td align="center">
+      <strong>操作与文件系统视图</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/6.OS/2.OS.png" width="500" style="max-height:320px; object-fit: contain;" alt="操作与文件系统视图"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+<span style="font-size: 22px; font-weight: bold; 
+             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;">
  **7.实时通信系统** 
-- [实时通信系统] 有时间了就会继续开发
+</span>
 
-![输入图片说明](Packs/7.%E5%AE%9E%E6%97%B6%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F.png)
+<div style="font-size: 12px; line-height: 1.6;">
 
- **8.系统日志** 
+- [实时通信系统] - 后续开发
 
-![输入图片说明](Packs/8.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.png)
+</div>
+</div>
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>操作与文件系统</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/7.RealTime/1.RealTime.png" width="500" style="max-height:320px; object-fit: contain;" alt="操作与文件系统"/>
+    </td>
+    <td align="center">
+      <strong>操作与文件系统视图</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/7.RealTime/2.RealTime.png" width="500" style="max-height:320px; object-fit: contain;" alt="操作与文件系统视图"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 #### 实际使用
 - 点击页面左上角机器人图标可以展开或者合拢左侧页面导航栏
