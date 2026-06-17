@@ -9,8 +9,9 @@
 <div>
 
 **1. 主页**
-- [切换主题] - 点击左侧页面导航栏主题切换按钮可以切换UI界面主题
-- [动态演示] - 点击页面左上角机器人图标可以展开或者合拢左侧页面导航栏
+- [默认主题] - 界面默认采用浅色UI；若切换其他主题，重启后会自动应用您修改后的主题。
+- [切换主题] - 点击左侧导航栏的“主题切换”按钮，即可更改界面配色。
+- [动态演示] - 点击页面左上角的机器人图标，可展开或收起左侧导航栏。
 
 </div>
 
@@ -19,47 +20,66 @@
   <tr>
     <td align="center">
       <strong>默认主题</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/1.%E4%B8%BB%E9%A1%B5.png" width="500" style="max-height:320px; object-fit: contain;" alt="默认主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.Home/1.Home.png" width="500" style="max-height:320px; object-fit: contain;" alt="默认主题"/>
     </td>
     <td align="center">
       <strong>切换主题</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/2.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png" width="500" style="max-height:320px; object-fit: contain;" alt="切换主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.Home/2.Home.png" width="500" style="max-height:320px; object-fit: contain;" alt="切换主题"/>
     </td>
     <td align="center">
       <strong>动态演示</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/3.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).gif" width="500" style="max-height:320px; object-fit: contain;" alt="动态切换主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.Home/3.Home.gif" width="500" style="max-height:320px; object-fit: contain;" alt="动态切换主题"/>
     </td>
   </tr>
 </table>
 </div>
 
-#### 页面介绍
 
-**1. 主页**
-- 点击页面左上角机器人图标可以展开或者合拢左侧页面导航栏
-- 点击左侧页面导航栏主题切换按钮可以切换UI界面主题
+
+<div>
+
+ **2.串口监视器** 
+- [串口助手] - 界面默认配置信息如下；若修改了串口配置，重启后会自动应用您修改后的配置。
+- [发送列表] - 记录要发送的内容、注释或者自动发送等信息，配置自动保存，重启后会自动应用您修改后的配置。
+- [协议解析] - 填写数据下标范围转换成对应的数据（没做帧头帧尾或者校验位校验的功能,就下标转换比较简洁实测很好用）。-
+- [其他配置] - 记录要发送的内容、注释、单独或者自动发送等信息。
+- [帮助] - 记录要发送的内容、注释、单独或者自动发送等信息。
+
+</div>
+
+</div>
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
       <strong>默认主题</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/1.%E4%B8%BB%E9%A1%B5.png" width="420" alt="默认主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/1.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="串口监视器"/>
     </td>
     <td align="center">
       <strong>切换主题</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/1.%E4%B8%BB%E9%A1%B5/2.%E4%B8%BB%E9%A1%B5(%E6%94%B9%E5%8F%98%E4%B8%BB%E9%A2%98).png" width="420" alt="切换主题"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/2.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="发送列表"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>切换主题</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/3.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="协议解析"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>切换主题</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/4.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="其他配置"/>
+    </td>
+    </td>
+    <td align="center">
+      <strong>切换主题</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/2.SerialMonitor/5.SerialMonitor.png" width="500" style="max-height:320px; object-fit: contain;" alt="帮助"/>
     </td>
   </tr>
 </table>
 </div>
 
- **2.串口监视器** 
-- 可以拖动调整发送区的占比大小，或者点击发送区最小按钮更方便查看数据
-- [发送列表] 记录要发送的内容、注释、单独或者自动发送等信息
-- [协议解析] 填写数据下标范围转换成对应的数据（没做帧头帧尾或者校验位校验的功能,就下标转换比较简洁实测很好用）
-
-![输入图片说明](Packs/2.%E4%B8%B2%E5%8F%A3%E7%9B%91%E8%A7%86%E5%99%A8.png)
+<div>
  
  **3.数据可视化** 
 - 可以拖动调整配置区的占比大小，或者点击发送区最小按钮更方便查看曲线
