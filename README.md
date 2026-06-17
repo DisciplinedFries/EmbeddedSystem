@@ -326,11 +326,11 @@
   <tr>
     <td align="center">
       <strong>串口正常通信</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="串口正常通信"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (1).png" width="500" style="max-height:120px; object-fit: contain;" alt="串口正常通信"/>
     </td>
     <td align="center">
       <strong>调整布局后</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="调整布局后"/>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (2).png" width="500" style="max-height:120px; object-fit: contain;" alt="调整布局后"/>
     </td>
     <td align="center">
       <strong>发现新版本</strong><br>
