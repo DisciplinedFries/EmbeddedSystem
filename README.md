@@ -17,7 +17,7 @@
 </div>
 
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -51,7 +51,7 @@
 </div>
 
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -98,7 +98,7 @@
 </div>
  
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -138,7 +138,7 @@
 </div>
  
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -184,7 +184,7 @@
 </div>
 
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -195,7 +195,7 @@
 
 - [工 具 箱] - 默认采用预设网络配置；若修改，重启后自动应用上次修改后的配置。
 - [工具介绍] - .-- .... . -.   ..- ... .. -. --.   .. -     ... .. -- .--. .-.. -.--   . -. - . .-.   .-   ...- .- .-.. ..- .   .. -.   .- -. -.--   .. -. .--. ..- -   -... --- -..-     .- -. -..   - .... .   -.-. --- .-. .-. . ... .--. --- -. -.. .. -. --.   -... --- -..- . ...   .-- .. .-.. .-..   .- ..- - --- -- .- - .. -.-. .- .-.. .-.. -.--   -.. .. ... .--. .-.. .- -.--   - .... .   -.-. --- -. ...- . .-. ... .. --- -.   .-. . ... ..- .-.. -     -- .- -.- .. -. --.   .. -   . .- ... -.--   - ---   --.- ..- .. -.-. -.- .-.. -.--   -.-. --- -- .--. .- .-. .   .- -. -..   ...- . .-. .. ..-. -.--
-- [补充说明] - 工具箱扩展：后续将根据开发计划持续增加新工具；需求反馈：若您有需要的工具，可点击提交issue提出。
+- [补充说明] - 工具箱扩展：后续将根据开发计划持续增加新工具；需求反馈：若您有需要的工具，可在软件内点击提交issue提出。
 
 </div>
 <div align="center">
@@ -214,7 +214,7 @@
 </div>
 
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -241,7 +241,7 @@
 </div>
 
 
-<span style="font-size: 22px; font-weight: bold; 
+<span style="font-size: 18px; font-weight: bold; 
              background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
              -webkit-background-clip: text; 
              -webkit-text-fill-color: transparent;">
@@ -267,18 +267,150 @@
 </table>
 </div>
 
-#### 实际使用
-- 点击页面左上角机器人图标可以展开或者合拢左侧页面导航栏
-- 将页面调整到合适的大小适合观测数据并且不占用windows窗口大小
-- ...
- 
- **数据可视化** 
+<span style="font-size: 18px; font-weight: bold; 
+             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;">
+ **8.系统日志** 
+</span>
 
-![输入图片说明](Packs/%E7%A4%BA%E4%BE%8B1.png)
+<div style="font-size: 12px; line-height: 1.6;">
 
- **串口监视器** 
+- [系统配置] - 显示当前软件版本及更新状态，并提供开机自启设置选项。
+- [关于软件] - 一些碎碎念
+- [补充说明] - 自动升级的具体操作步骤，请参阅文档末尾的示例。
+</div>
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>系统日志</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/8.SystemLog/1.SystemLog.png" width="500" style="max-height:320px; object-fit: contain;" alt="系统日志"/>
+    </td>
+    <td align="center">
+      <strong>系统配置</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/8.SystemLog/2.SystemLog.png" width="500" style="max-height:320px; object-fit: contain;" alt="系统配置"/>
+    </td>
+    <td align="center">
+      <strong>关于EmbeddedSystem</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/8.SystemLog/3.SystemLog.png" width="500" style="max-height:320px; object-fit: contain;" alt="关于EmbeddedSystem"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-![输入图片说明](Packs/%E7%A4%BA%E4%BE%8B2.png)
+
+<div align="center">
+  <span style="font-size: 30px; font-weight: bold; 
+               background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+  示例
+  </span><br>
+</div>
+
+<div align="center" style="font-size: 12px; line-height: 1.6;">
+
+展示多种实际使用场景，通过调整界面布局和主题，呈现更好的视觉效果
+</div>
+
+<span style="font-size: 18px; font-weight: bold; 
+             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;">
+ **示例A** 
+</span>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>串口正常通信</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="串口正常通信"/>
+    </td>
+    <td align="center">
+      <strong>调整布局后</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="调整布局后"/>
+    </td>
+    <td align="center">
+      <strong>发现新版本</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SystemLog_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="发现新版本"/>
+    </td>
+    <td align="center">
+      <strong>点击自动升级</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SystemLog_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<span style="font-size: 18px; font-weight: bold; 
+             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;">
+ **示例B** 
+</span>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>图表示例1</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/DataBoard_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="串口正常通信"/>
+    </td>
+    <td align="center">
+      <strong>图表示例2</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/DataBoard_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="调整布局后"/>
+    </td>
+    <td align="center">
+      <strong>图表示例3</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/DataBoard_Examples (3).png" width="500" style="max-height:320px; object-fit: contain;" alt="发现新版本"/>
+    </td>
+    <td align="center">
+      <strong>图表示例4</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/DataBoard_Examples (4).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+    </td>
+    <td align="center">
+      <strong>图表示例5</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/DataBoard_Examples (5).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<span style="font-size: 18px; font-weight: bold; 
+             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;">
+ **示例C** 
+</span>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>TCP示例1</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="串口正常通信"/>
+    </td>
+    <td align="center">
+      <strong>TCP示例2</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="调整布局后"/>
+    </td>
+    <td align="center">
+      <strong>TCP示例3</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (3).png" width="500" style="max-height:320px; object-fit: contain;" alt="发现新版本"/>
+    </td>
+    <td align="center">
+      <strong>TCP示例4</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (4).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+    </td>
+    <td align="center5">
+      <strong>TCP示例</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (5).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
+    </td>
+  </tr>
+</table>
+</div>
 
  **关于杀软报毒的说明** 
 如果有杀毒软件报毒或提示有可疑行为，请先确认软件是从本页面提供的渠道下载的。
