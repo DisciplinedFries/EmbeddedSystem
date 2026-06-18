@@ -256,8 +256,8 @@
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/8.SystemLog/2.SystemLog.png" width="500" style="max-height:320px; object-fit: contain;" alt="系统配置"/>
     </td>
     <td align="center">
-      <strong>关于EmbeddedSystem</strong><br>
-      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/8.SystemLog/3.SystemLog.png" width="500" style="max-height:320px; object-fit: contain;" alt="关于EmbeddedSystem"/>
+      <strong>关于软件</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/8.SystemLog/3.SystemLog.png" width="500" style="max-height:320px; object-fit: contain;" alt="关于ESystem"/>
     </td>
   </tr>
 </table>
@@ -285,19 +285,19 @@
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <strong>串口正常通信</strong><br>
+      <strong>调整布局1</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (1).png" width="300" style="max-height:192px; object-fit: contain;" alt="串口正常通信"/>
     </td>
     <td align="center">
-      <strong>调整布局后</strong><br>
+      <strong>调整布局2</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SerialMonitor_Examples (2).png" width="300" style="max-height:192px; object-fit: contain;" alt="调整布局后"/>
     </td>
     <td align="center">
-      <strong>发现新版本</strong><br>
+      <strong>自动升级1</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SystemLog_Examples (1).png" width="500" style="max-height:320px; object-fit: contain;" alt="发现新版本"/>
     </td>
     <td align="center">
-      <strong>点击自动升级</strong><br>
+      <strong>自动升级2</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/SystemLog_Examples (2).png" width="500" style="max-height:320px; object-fit: contain;" alt="点击自动升级"/>
     </td>
   </tr>
@@ -356,7 +356,7 @@
       <strong>TCP示例4</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (4).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例4"/>
     </td>
-    <td align="center5">
+    <td align="center">
       <strong>TCP示例5</strong><br>
       <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/Packs/9.Examples/Net_Examples (5).png" width="500" style="max-height:320px; object-fit: contain;" alt="TCP示例5"/>
     </td>
