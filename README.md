@@ -18,7 +18,7 @@
 
 
 ### 1. 主页
-<div style="font-size: 12px; line-height: 1.6;">
+<div style="font-size: 10px; line-height: 1.5;">
 
 - [默认主题] - 界面默认采用浅色UI；若切换其他主题，重启后会自动应用您修改后的主题。
 - [切换主题] - 点击左侧导航栏的“主题切换”按钮，即可更改界面配色。
