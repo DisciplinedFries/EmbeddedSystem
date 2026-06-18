@@ -18,7 +18,7 @@
 
 
 ### 1. 主页
-<div style="font-size: 10px; line-height: 1.5;">
+<div style="font-size: 12px; line-height: 1.6;">
 
 - [默认主题] - 界面默认采用浅色UI；若切换其他主题，重启后会自动应用您修改后的主题。
 - [切换主题] - 点击左侧导航栏的“主题切换”按钮，即可更改界面配色。
@@ -241,7 +241,7 @@
 <div style="font-size: 12px; line-height: 1.6;">
 
 - [系统配置] - 显示当前软件版本及更新状态，并提供开机自启设置选项。
-- [关于软件] - 一些碎碎念
+- [关于软件] - 一些碎碎念。
 - [补充说明] - 自动升级的具体操作步骤，请参阅文档末尾的示例。
 </div>
 <div align="center">
@@ -263,24 +263,11 @@
 </table>
 </div>
 
-
-<div align="center">
-  <span style="font-size: 30px; font-weight: bold; 
-               background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-   示例
-  </span><br>
-</div>
-
-<div align="center" style="font-size: 12px; line-height: 1.6;">
-
-展示多种实际使用场景，通过调整界面布局和主题，呈现更好的视觉效果
-</div>
-
-
+## 操作示例
+- 展示多种实际使用场景，通过调整界面布局和主题，呈现更好的视觉效果。
 ### 示例A
-
+- [调整布局] - 通过调整窗口及面板布局，让数据显示更加清晰直观。
+- [自动升级] - 点击更新后，软件将自动下载安装新版本并重启。
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -306,6 +293,8 @@
 
 
 ### 示例B
+- [图表示例] - 这里进行了操作演示以及调整布局，数据处理非常简单。
+- [图表配置] - 按帧接收字节数据（未做校验），下图为示例，每10ms绘制一个数据点，每帧数据长度为8字节。
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -336,6 +325,8 @@
 
 
 ### 示例C
+- [TCP服务器] - 通信示例。
+- [TCP客户端] - 通信示例。
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -363,7 +354,6 @@
   </tr>
 </table>
 </div>
-
 
 ### 关于杀软报毒的说明
 如果有杀毒软件报毒或提示有可疑行为，请先确认软件是从本页面提供的渠道下载的。
