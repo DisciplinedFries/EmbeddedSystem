@@ -17,13 +17,7 @@
 </div>
 
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
-**1. 主页**
-</span>
-
+##### 1. 主页
 <div style="font-size: 12px; line-height: 1.6;">
 
 - [默认主题] - 界面默认采用浅色UI；若切换其他主题，重启后会自动应用您修改后的主题。
@@ -51,11 +45,8 @@
 </div>
 
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
-**2.串口监视器**
+
+##### 2.串口监视器
 </span>
 
 <div style="font-size: 12px; line-height: 1.6;">
@@ -98,12 +89,8 @@
 </div>
  
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **3.数据可视化** 
-</span>
+
+##### 3.数据可视化
 
 <div style="font-size: 12px; line-height: 1.6;">
 
@@ -138,12 +125,8 @@
 </div>
  
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **4.网络调试** 
-</span>
+##### 4.网络调试
+
 
 <div style="font-size: 12px; line-height: 1.6;">
 
@@ -184,12 +167,7 @@
 </div>
 
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **5.工具箱** 
-</span>
+##### 5.工具箱
 
 <div style="font-size: 12px; line-height: 1.6;">
 
@@ -214,12 +192,7 @@
 </div>
 
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **6.操作与文件系统** 
-</span>
+##### 6.操作与文件系统
 
 <div style="font-size: 12px; line-height: 1.6;">
 
@@ -241,12 +214,7 @@
 </div>
 
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **7.实时通信系统** 
-</span>
+##### 7.实时通信系统
 
 <div style="font-size: 12px; line-height: 1.6;">
 
@@ -267,12 +235,8 @@
 </table>
 </div>
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **8.系统日志** 
-</span>
+
+##### 8.系统日志
 
 <div style="font-size: 12px; line-height: 1.6;">
 
@@ -305,7 +269,7 @@
                background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%);
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;">
-  示例
+   示例
   </span><br>
 </div>
 
@@ -314,12 +278,8 @@
 展示多种实际使用场景，通过调整界面布局和主题，呈现更好的视觉效果
 </div>
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **示例A** 
-</span>
+
+##### 示例A
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -344,12 +304,8 @@
 </table>
 </div>
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **示例B** 
-</span>
+
+##### 示例B
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -378,12 +334,8 @@
 </table>
 </div>
 
-<span style="font-size: 18px; font-weight: bold; 
-             background: linear-gradient(to right, #24999c 0%, #00d4ff 50%, #24999c 100%); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
- **示例C** 
-</span>
+
+##### 示例C
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0">
@@ -412,6 +364,7 @@
 </table>
 </div>
 
- **关于杀软报毒的说明** 
+
+##### 关于杀软报毒的说明
 如果有杀毒软件报毒或提示有可疑行为，请先确认软件是从本页面提供的渠道下载的。
 如果确认是从本页面提供的渠道下载的，那么大概率为误报。不对第三方渠道下载的安全性作任何保证。
