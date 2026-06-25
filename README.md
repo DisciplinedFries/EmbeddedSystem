@@ -1,5 +1,6 @@
 # ESystem
 
+<div>
 <span style="margin-top: -8px; display: inline-block; font-size: 13px; font-style: italic;">
 下载地址：
 <a href="https://foruda.gitee.com/attach_file/1781777009966349880/esystem.exe?token=24f6935c2b794afe3307ad8a8d353f71&ts=1781777015&attname=ESystem.exe"
@@ -8,7 +9,9 @@
   最新版ESystem
 </a>
 </span>
+</div>
 
+<div>
 <span style="margin-top: 4px; display: inline-block; font-size: 13px; font-style: italic;">
 B站地址：
 <a href="https://www.bilibili.com/video/BV1kEjn6BESh/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=46c754a2377593e24f7b071341cfcc8b"
@@ -17,6 +20,7 @@ B站地址：
   B站视频介绍
 </a>
 </span>
+</div>
 
 ## 设计初衷
 
