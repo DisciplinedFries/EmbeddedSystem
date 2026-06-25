@@ -13,7 +13,7 @@
 
 <div>
 <span style="margin-top: 4px; display: inline-block; font-size: 13px; font-style: italic;">
-B站地址：
+视频地址：
 <a href="https://www.bilibili.com/video/BV1kEjn6BESh/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=46c754a2377593e24f7b071341cfcc8b"
    target="_blank"
    style="font-weight: normal; text-decoration: none; font-style: italic;">
