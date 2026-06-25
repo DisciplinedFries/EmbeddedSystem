@@ -374,7 +374,7 @@ B站地址：
 ## 软件基于 .NET 8 开发
 <div style="font-size: 12px; line-height: 1.6;">
 
-- 本软件依赖 .NET 8 运行环境，首次使用或系统未安装时需要进行此操作。
+- 本软件依赖 .NET 8 (windowsdesktop-runtime-8.0.13-win-x64.exe)运行环境，首次使用或系统未安装时需要进行此操作。
 - 如果出现以下安装提示界面，请点击 **“Download it now”** 安装 .NET 8 桌面运行时组件。
 - 最新版 ESystem.exe 和 windows 下的.NET8.0 组件已放置到仓库中的 ESystem 文件夹下，有需要自行下载。
 </div>
