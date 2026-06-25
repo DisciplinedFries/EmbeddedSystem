@@ -8,6 +8,15 @@
 </a>
 </span>
 
+<span style="margin-top: -8px; display: inline-block; font-size: 13px; font-style: italic;">
+B站地址：
+<a href="https://www.bilibili.com/video/BV1kEjn6BESh/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=46c754a2377593e24f7b071341cfcc8b" 
+   target="_blank" 
+   style="margin-left: -10px; font-weight: normal; text-decoration: none; font-style: italic;">
+  B站视频超链接
+</a>
+</span>
+
 ## 设计初衷
 
 -  **大家好，我是 ESystem 的开发者。** 
@@ -385,4 +394,4 @@
 
 ## 关于杀软报毒的说明
 如果有杀毒软件报毒或提示有可疑行为，请先确认软件是从本页面提供的渠道下载的。
-如果确认是从本页面提供的渠道下载的，那么大概率为误报。不对第三方渠道下载的安全性作任何保证。
+如果确认是从本页面提供的渠道下载的，那么大概率为误报。
