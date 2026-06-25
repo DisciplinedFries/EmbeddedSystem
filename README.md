@@ -3,7 +3,7 @@
 <div>
 <span style="margin-top: -8px; display: inline-block; font-size: 13px; font-style: italic;">
 下载地址：
-<a href="https://foruda.gitee.com/attach_file/1781777009966349880/esystem.exe?token=24f6935c2b794afe3307ad8a8d353f71&ts=1781777015&attname=ESystem.exe"
+<a href="https://gitee.com/DisciplinedFries/embedded-system/releases/tag/v1.0.0.1"
    target="_blank"
    style="font-weight: normal; text-decoration: none; font-style: italic;">
   最新版ESystem
