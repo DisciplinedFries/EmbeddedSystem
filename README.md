@@ -357,6 +357,32 @@
 </table>
 </div>
 
+## 软件基于 .NET 8 开发
+<div style="font-size: 12px; line-height: 1.6;">
+
+- 本软件依赖 .NET 8 运行环境，首次使用或系统未安装时需要进行此操作。
+- 如果出现以下安装提示界面，请点击 **“Download it now”** 安装 .NET 8 桌面运行时组件。
+- 最新版 ESystem.exe 和 windows 下的.NET8.0 组件已放置到仓库中的 ESystem 文件夹下，有需要自行下载。
+</div>
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>系统日志</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/ESystem/P1.png" width="500" style="max-height:320px; object-fit: contain;" alt="系统日志"/>
+    </td>
+    <td align="center">
+      <strong>系统配置</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/ESystem/P2.png" width="500" style="max-height:320px; object-fit: contain;" alt="系统配置"/>
+    </td>
+    <td align="center">
+      <strong>关于软件</strong><br>
+      <img src="https://gitee.com/DisciplinedFries/embedded-system/raw/master/ESystem/P3.png" width="500" style="max-height:320px; object-fit: contain;" alt="关于ESystem"/>
+    </td>
+  </tr>
+</table>
+</div>
+
 ## 关于杀软报毒的说明
 如果有杀毒软件报毒或提示有可疑行为，请先确认软件是从本页面提供的渠道下载的。
 如果确认是从本页面提供的渠道下载的，那么大概率为误报。不对第三方渠道下载的安全性作任何保证。
