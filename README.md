@@ -3,7 +3,7 @@
 <div>
 <span style="margin-top: -8px; display: inline-block; font-size: 13px; font-style: italic;">
 下载地址：
-<a href="https://gitee.com/DisciplinedFries/embedded-system/releases/tag/v1.0.0.1"
+<a href="https://gitee.com/DisciplinedFries/embedded-system/releases/tag/v1.0.0.2"
    target="_blank"
    style="font-weight: normal; text-decoration: none; font-style: italic;">
   最新版ESystem
